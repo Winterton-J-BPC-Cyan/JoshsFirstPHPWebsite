@@ -7,6 +7,7 @@
 
 <body>
 
+<h1>
 <?php
 
 echo "My first time trying PHP!";
@@ -14,7 +15,8 @@ echo "My first time trying PHP!";
 //This is me testing this site.
 
 ?>
-
+</h1>
+  
 </body>
 
 </html>
